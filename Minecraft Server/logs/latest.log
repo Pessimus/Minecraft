@@ -1,37 +1,24 @@
-[00:16:32] [User Authenticator #3/INFO]: UUID of player Mathambulance is 9730a92e-9534-4ae9-8b3f-8001b22cfab1
-[00:16:32] [Server thread/INFO]: Mathambulance[/95.80.48.194:51959] logged in with entity id 19586 at (-204.35996914298127, 69.0, 289.2570511045663)
-[00:16:32] [Server thread/INFO]: Mathambulance joined the game
-[00:17:29] [Server thread/INFO]: Blankfail lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:17:29] [Server thread/INFO]: Blankfail left the game
-[00:17:35] [User Authenticator #4/INFO]: UUID of player Blankfail is f1a3ac1b-6582-4206-a7f6-40a6fa480655
-[00:17:35] [Server thread/INFO]: Blankfail[/127.0.0.1:59907] logged in with entity id 22759 at (-773.3858147732986, 50.0, -2045.4984509604174)
-[00:17:35] [Server thread/INFO]: Blankfail joined the game
-[00:27:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2319ms behind, skipping 46 tick(s)
-[00:27:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2321ms behind, skipping 46 tick(s)
-[00:28:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2180ms behind, skipping 43 tick(s)
-[00:42:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2752ms behind, skipping 55 tick(s)
-[00:42:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7379ms behind, skipping 147 tick(s)
-[00:48:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2783ms behind, skipping 55 tick(s)
-[00:48:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3970ms behind, skipping 79 tick(s)
-[00:48:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4175ms behind, skipping 83 tick(s)
-[00:51:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2388ms behind, skipping 47 tick(s)
-[00:51:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7619ms behind, skipping 152 tick(s)
-[00:51:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4805ms behind, skipping 96 tick(s)
-[00:52:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6193ms behind, skipping 123 tick(s)
-[00:52:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6816ms behind, skipping 136 tick(s)
-[00:52:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6944ms behind, skipping 138 tick(s)
-[00:52:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4494ms behind, skipping 89 tick(s)
-[00:53:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4012ms behind, skipping 80 tick(s)
-[00:53:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2055ms behind, skipping 41 tick(s)
-[00:53:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4983ms behind, skipping 99 tick(s)
-[00:54:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4733ms behind, skipping 94 tick(s)
-[01:01:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3173ms behind, skipping 63 tick(s)
-[01:02:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4020ms behind, skipping 80 tick(s)
-[01:02:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6067ms behind, skipping 121 tick(s)
-[01:02:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7742ms behind, skipping 154 tick(s)
-[01:03:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6479ms behind, skipping 129 tick(s)
-[01:03:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5956ms behind, skipping 119 tick(s)
-[01:03:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8989ms behind, skipping 179 tick(s)
-[01:03:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2356ms behind, skipping 47 tick(s)
-[01:05:33] [Server thread/INFO]: Mathambulance lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:05:33] [Server thread/INFO]: Mathambulance left the game
+[22:08:15] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[22:08:15] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_66]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_66]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_66]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_66]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_66]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_66]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_66]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_66]
+	at ko$2.run(SourceFile:81) [minecraft_server.1.8.8.exe:?]
+[22:08:15] [Server thread/INFO]: Loading properties
+[22:08:15] [Server thread/INFO]: Default game type: SURVIVAL
+[22:08:15] [Server thread/INFO]: Generating keypair
+[22:08:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:08:15] [Server thread/INFO]: Using default channel type
+[22:08:15] [Server thread/INFO]: Preparing level "world"
+[22:08:15] [Server thread/INFO]: Preparing start region for level 0
+[22:08:16] [Server thread/INFO]: Preparing spawn area: 89%
+[22:08:16] [Server thread/INFO]: Done (1,136s)! For help, type "help" or "?"
