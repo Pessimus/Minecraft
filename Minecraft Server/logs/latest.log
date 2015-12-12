@@ -22,3 +22,28 @@ java.io.IOException: The handle is invalid
 [22:08:15] [Server thread/INFO]: Preparing start region for level 0
 [22:08:16] [Server thread/INFO]: Preparing spawn area: 89%
 [22:08:16] [Server thread/INFO]: Done (1,136s)! For help, type "help" or "?"
+[22:09:42] [User Authenticator #1/INFO]: UUID of player Blankfail is f1a3ac1b-6582-4206-a7f6-40a6fa480655
+[22:09:42] [Server thread/INFO]: Blankfail[/127.0.0.1:56224] logged in with entity id 383 at (-801.2827927217771, 70.0, -2005.300000011921)
+[22:09:42] [Server thread/INFO]: Blankfail joined the game
+[22:09:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2392ms behind, skipping 47 tick(s)
+[22:10:03] [User Authenticator #2/INFO]: UUID of player Mathambulance is 9730a92e-9534-4ae9-8b3f-8001b22cfab1
+[22:10:03] [Server thread/INFO]: Mathambulance[/95.80.48.194:55739] logged in with entity id 880 at (-203.7885820741389, 69.875, 283.69550184707623)
+[22:10:03] [Server thread/INFO]: Mathambulance joined the game
+[22:15:04] [Server thread/INFO]: Blankfail has just earned the achievement [We Need to Go Deeper]
+[22:15:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6875ms behind, skipping 137 tick(s)
+[22:16:44] [Server thread/WARN]: Blankfail moved wrongly!
+[22:16:44] [Server thread/WARN]: Blankfail moved wrongly!
+[22:16:44] [Server thread/WARN]: Blankfail moved wrongly!
+[22:16:44] [Server thread/WARN]: Blankfail moved wrongly!
+[22:16:44] [Server thread/WARN]: Blankfail moved wrongly!
+[22:16:44] [Server thread/WARN]: Blankfail moved wrongly!
+[22:16:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4142ms behind, skipping 82 tick(s)
+[22:28:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2235ms behind, skipping 44 tick(s)
+[22:31:25] [Server thread/INFO]: Blankfail has just earned the achievement [Diamonds to you!]
+[22:31:33] [Server thread/INFO]: Mathambulance has just earned the achievement [Diamonds to you!]
+[23:45:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6708ms behind, skipping 134 tick(s)
+[23:45:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4777ms behind, skipping 95 tick(s)
+[23:46:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2524ms behind, skipping 50 tick(s)
+[23:46:21] [Server thread/WARN]: Blankfail moved wrongly!
+[23:46:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7212ms behind, skipping 144 tick(s)
+[23:46:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2190ms behind, skipping 43 tick(s)
